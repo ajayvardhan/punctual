@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  location: MyString
+  event_time: 2014-05-13 08:04:51
+  number_of_participants: 1
+
+two:
+  location: MyString
+  event_time: 2014-05-13 08:04:51
+  number_of_participants: 1
